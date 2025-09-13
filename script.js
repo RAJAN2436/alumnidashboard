@@ -15,7 +15,7 @@
   },
   {
     id: 2,
-    name: "Hardik Gautam",
+    name: "Devansh Kumar",
     batch: 2018,
     dept: "Electronics",
     company: "Wipro",
@@ -506,4 +506,5 @@
     window.saveJob = saveJob;
 
     window.closeModal = closeModal;
+
 
