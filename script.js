@@ -71,8 +71,7 @@
     ];
 
     let donors = [
-      {id:1,name:"R.Kumar",amount:1000,date:"2025-06-05"},
-      {id:2,name:"Anjali",amount:2500,date:"2025-07-20"}
+      {id:1,name:"R.Kumar",amount:1000,date:"2025-06-05"}
     ];
 
     /*******************************
@@ -505,4 +504,5 @@
     window.requestMentor = requestMentor;
     window.saveEvent = saveEvent;
     window.saveJob = saveJob;
+
     window.closeModal = closeModal;
