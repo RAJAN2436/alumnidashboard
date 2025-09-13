@@ -1,0 +1,8 @@
+AlumniLux/
+│
+├── index.html # Main HTML file for the platform UI
+├── style.css # Custom styling for the frontend components
+├── script.js # JavaScript for basic interactivity
+├── assets/
+│ └── logo.jpg # Official logo used in the header and branding
+└── README.md # Project documentation (this file)
