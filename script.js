@@ -15,7 +15,7 @@
   },
   {
     id: 2,
-    name: "Rajan Sharma",
+    name: "Hardik Gautam",
     batch: 2018,
     dept: "Electronics",
     company: "Wipro",
@@ -506,3 +506,4 @@
     window.saveJob = saveJob;
 
     window.closeModal = closeModal;
+
