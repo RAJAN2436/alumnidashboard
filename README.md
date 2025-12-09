@@ -1,4 +1,4 @@
-# AlumniLux — Frontend Demo  
+ AlumniLux — Frontend Demo  
 *A Digital Platform for Centralized Alumni Data Management and Engagement
 
 ---
