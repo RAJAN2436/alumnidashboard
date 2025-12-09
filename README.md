@@ -1,9 +1,5 @@
 # AlumniLux — Frontend Demo  
-*A Digital Platform for Centralized Alumni Data Management and Engagement*
-
-**Project ID:** SIH25017  
-**Team Name:** Team Zoron  
-**Build Type:** Frontend Demo  
+*A Digital Platform for Centralized Alumni Data Management and Engagement
 
 ---
 
