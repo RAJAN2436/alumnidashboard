@@ -85,7 +85,7 @@
     .pill{display:inline-block;padding:6px 10px;border-radius:999px;background:#eef2ff;color:#1e3a8a;font-weight:600}
     .center{text-align:center}
     .right{text-align:right}
-    .mb8{margin-bottom:8px box-sizing: initial;}
+    .mb8{margin-bottom:8px box-sizing: initial}
     .mt8{margin-top:8px}
     .progress-wrap{background:#eef3fb;border-radius:999px;height:14px;overflow:hidden}
     .progress-bar{height:100%; background:linear-gradient(90deg,var(--accent),#06b6d4); width:0%}
@@ -97,4 +97,5 @@
     .modal.open{visibility:visible; opacity:1}
 
     .modal-inner{background:white; padding:18px; border-radius:12px; width:520px; max-width:95%}
+
 
